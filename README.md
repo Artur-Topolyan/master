@@ -1,3 +1,0 @@
-"# sayt-lg" 
-"# master" 
-"# master" 
